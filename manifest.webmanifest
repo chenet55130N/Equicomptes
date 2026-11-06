@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "ÉquiComptes — version vierge",
+  "name": "ÉquiComptes",
   "short_name": "ÉquiComptes",
-  "description": "Répartir équitablement des charges du foyer, sur le téléphone, sans données personnelles publiées.",
+  "description": "Répartir les charges du foyer avec 1 compte joint, 2 comptes personnels et des salaires versés sur les comptes au choix. Application vierge.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
